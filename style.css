@@ -1,0 +1,9 @@
+/****** General ***********/
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.imgohmyfood {
+    display: flex;
+    justify-content: center;
+}
